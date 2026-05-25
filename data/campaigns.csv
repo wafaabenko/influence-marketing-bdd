@@ -1,0 +1,67 @@
+campaign_id,brand_id,name,campaign_type,start_date,end_date,budget,target_platform,target_category,status
+1,1,Camp_LOreal_Paris_1,Giveaway,2024-01-09,2024-03-04,119398,Instagram,Gaming,Planned
+2,1,Camp_LOreal_Paris_2,Ambassador,2023-04-08,2023-05-25,16635,Twitter,Beauty,Planned
+3,1,Camp_LOreal_Paris_3,Reel,2024-04-18,2024-07-10,56651,Twitter,Fashion,Completed
+4,1,Camp_LOreal_Paris_4,Ambassador,2023-11-16,2024-01-10,37669,YouTube,Travel,Completed
+5,1,Camp_LOreal_Paris_5,Giveaway,2023-06-17,2023-08-22,82504,TikTok,Food,Completed
+6,2,Camp_Nike_6,Video Review,2023-12-13,2024-01-19,83892,Instagram,Travel,Completed
+7,2,Camp_Nike_7,Video Review,2023-04-18,2023-06-27,89475,Twitter,Lifestyle,Completed
+8,2,Camp_Nike_8,Ambassador,2023-09-19,2023-12-03,49483,Instagram,Travel,Planned
+9,2,Camp_Nike_9,Story,2023-12-06,2024-02-01,29480,YouTube,Food,Completed
+10,2,Camp_Nike_10,Story,2023-03-17,2023-04-04,17114,Twitter,Fashion,Completed
+11,2,Camp_Nike_11,Ambassador,2023-08-01,2023-10-28,55970,Twitter,Lifestyle,Completed
+12,3,Camp_Zara_12,Video Review,2023-03-17,2023-04-01,32941,TikTok,Fitness,Planned
+13,3,Camp_Zara_13,Sponsored Post,2023-08-26,2023-09-16,70325,Twitter,Fitness,Completed
+14,3,Camp_Zara_14,Video Review,2023-12-08,2024-02-28,88177,Twitter,Lifestyle,Completed
+15,3,Camp_Zara_15,Reel,2024-01-16,2024-03-31,122983,TikTok,Travel,Planned
+16,4,Camp_GoPro_16,Video Review,2023-11-17,2024-01-01,76984,Instagram,Travel,Completed
+17,4,Camp_GoPro_17,Giveaway,2023-05-20,2023-07-16,88809,Instagram,Fitness,Completed
+18,4,Camp_GoPro_18,Ambassador,2023-04-29,2023-07-02,45056,TikTok,Fashion,Completed
+19,4,Camp_GoPro_19,Video Review,2023-07-28,2023-09-23,147242,Twitter,Beauty,Completed
+20,4,Camp_GoPro_20,Giveaway,2024-03-02,2024-05-09,107099,Instagram,Gaming,Completed
+21,4,Camp_GoPro_21,Video Review,2023-01-04,2023-03-05,83279,Twitter,Food,Completed
+22,5,Camp_Airbnb_22,Sponsored Post,2023-05-20,2023-07-29,132308,Twitter,Tech,Completed
+23,5,Camp_Airbnb_23,Story,2024-01-06,2024-02-11,127523,Instagram,Gaming,Planned
+24,5,Camp_Airbnb_24,Ambassador,2023-10-16,2023-11-03,27006,Twitter,Fitness,Completed
+25,5,Camp_Airbnb_25,Video Review,2023-04-04,2023-04-25,73198,YouTube,Food,Completed
+26,6,Camp_Sephora_26,Video Review,2023-06-22,2023-08-24,77943,YouTube,Fashion,Completed
+27,6,Camp_Sephora_27,Reel,2023-01-10,2023-04-04,18653,TikTok,Fashion,Active
+28,6,Camp_Sephora_28,Story,2024-01-22,2024-02-09,69823,Instagram,Fitness,Completed
+29,6,Camp_Sephora_29,Giveaway,2023-03-06,2023-05-20,34986,TikTok,Lifestyle,Completed
+30,6,Camp_Sephora_30,Giveaway,2024-01-28,2024-03-30,48984,Instagram,Fitness,Completed
+31,7,Camp_Adidas_31,Giveaway,2023-10-24,2023-11-11,86777,Twitter,Gaming,Completed
+32,7,Camp_Adidas_32,Sponsored Post,2023-02-08,2023-05-09,68661,YouTube,Fashion,Planned
+33,7,Camp_Adidas_33,Giveaway,2024-02-05,2024-02-25,96017,Twitter,Tech,Active
+34,8,Camp_H&M_34,Sponsored Post,2023-01-07,2023-03-16,133503,Twitter,Tech,Completed
+35,8,Camp_H&M_35,Story,2023-12-29,2024-02-01,119160,YouTube,Lifestyle,Completed
+36,8,Camp_H&M_36,Reel,2023-08-12,2023-11-10,75358,TikTok,Fashion,Completed
+37,8,Camp_H&M_37,Video Review,2024-03-27,2024-06-07,68927,Twitter,Tech,Active
+38,8,Camp_H&M_38,Video Review,2023-09-11,2023-11-06,52668,TikTok,Tech,Completed
+39,9,Camp_Apple_39,Giveaway,2023-05-24,2023-07-13,7661,TikTok,Fashion,Completed
+40,9,Camp_Apple_40,Giveaway,2024-01-04,2024-03-11,133077,TikTok,Lifestyle,Completed
+41,9,Camp_Apple_41,Reel,2023-08-18,2023-09-04,29393,TikTok,Gaming,Completed
+42,9,Camp_Apple_42,Video Review,2023-06-06,2023-09-03,101736,YouTube,Gaming,Planned
+43,9,Camp_Apple_43,Reel,2023-06-19,2023-08-18,123946,YouTube,Travel,Completed
+44,10,Camp_Deliveroo_44,Sponsored Post,2024-01-05,2024-02-13,87719,TikTok,Food,Completed
+45,10,Camp_Deliveroo_45,Ambassador,2024-01-14,2024-03-30,77482,YouTube,Fashion,Completed
+46,10,Camp_Deliveroo_46,Story,2023-06-01,2023-07-15,99602,YouTube,Beauty,Planned
+47,11,Camp_HelloFresh_47,Giveaway,2023-05-21,2023-06-10,19293,YouTube,Fitness,Completed
+48,11,Camp_HelloFresh_48,Video Review,2023-02-22,2023-03-10,79537,Twitter,Lifestyle,Completed
+49,11,Camp_HelloFresh_49,Video Review,2023-04-05,2023-04-26,71185,Instagram,Fashion,Completed
+50,11,Camp_HelloFresh_50,Story,2023-09-09,2023-10-03,19053,TikTok,Travel,Active
+51,12,Camp_Booking.com_51,Giveaway,2023-03-02,2023-05-27,114097,TikTok,Gaming,Completed
+52,12,Camp_Booking.com_52,Giveaway,2024-04-10,2024-06-20,82949,Twitter,Travel,Planned
+53,12,Camp_Booking.com_53,Story,2023-11-14,2023-12-06,31013,TikTok,Travel,Active
+54,12,Camp_Booking.com_54,Giveaway,2023-03-22,2023-05-06,50564,Instagram,Fitness,Active
+55,13,Camp_PlayStation_55,Sponsored Post,2023-08-19,2023-11-02,81351,TikTok,Travel,Completed
+56,13,Camp_PlayStation_56,Ambassador,2023-12-26,2024-03-08,23659,TikTok,Travel,Planned
+57,13,Camp_PlayStation_57,Sponsored Post,2023-12-05,2024-01-14,116447,TikTok,Fitness,Completed
+58,13,Camp_PlayStation_58,Sponsored Post,2024-02-28,2024-04-01,23719,TikTok,Travel,Planned
+59,13,Camp_PlayStation_59,Video Review,2024-01-19,2024-04-15,80657,Instagram,Lifestyle,Completed
+60,13,Camp_PlayStation_60,Giveaway,2023-12-25,2024-02-29,76367,Twitter,Lifestyle,Active
+61,14,Camp_Maybelline_61,Giveaway,2024-03-31,2024-06-09,89494,YouTube,Beauty,Active
+62,14,Camp_Maybelline_62,Ambassador,2023-04-28,2023-07-25,10438,YouTube,Beauty,Completed
+63,14,Camp_Maybelline_63,Reel,2023-08-29,2023-11-18,120927,TikTok,Gaming,Completed
+64,15,Camp_Decathlon_64,Reel,2023-08-29,2023-10-27,112046,YouTube,Fashion,Completed
+65,15,Camp_Decathlon_65,Reel,2023-06-18,2023-08-24,134884,Twitter,Beauty,Completed
+66,15,Camp_Decathlon_66,Reel,2023-02-15,2023-04-11,71164,Instagram,Gaming,Planned
